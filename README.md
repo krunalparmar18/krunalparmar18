@@ -1,8 +1,9 @@
-# About me
+
 ## About me
-### About me
+
 Hi, I'm krunal parmar.
 
+## Details
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
@@ -14,6 +15,8 @@ Hi, I'm krunal parmar.
 
 
 </details>
+
+## Quto
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
