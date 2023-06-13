@@ -1,6 +1,6 @@
-
+# About me
 ## About me
-
+### About me
 Hi, I'm krunal parmar.
 
 <details>
@@ -27,4 +27,6 @@ Hi, I'm krunal parmar.
 ## About me
 
 <!-- TO DO: add more details about me later -->
+
+
 
