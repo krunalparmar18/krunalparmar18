@@ -2,7 +2,7 @@
 ## About me
 
 Hi, I'm krunal parmar.
-Fullstack software Engineer - intern
+Software Engineer - intern
 
 ## Details
 <details>
